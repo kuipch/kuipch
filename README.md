@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kuipch
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Chris Kuipers
+- 👀 I’m interested in most things IT related, but also foreign languages, history and books (of all sorts).
+- 🌱 I’m currently learning python and javascript
+
 
 <!---
 kuipch/kuipch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
