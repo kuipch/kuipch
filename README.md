@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Chris Kuipers
+- I work mostly in Java but have considerable experience in SAS and PL/SQL
 - 👀 I’m interested in most things IT related, but also foreign languages, history and books (of all sorts).
 - 🌱 I’m currently learning python and javascript
 
